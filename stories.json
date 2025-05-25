@@ -1,0 +1,53 @@
+[
+  {
+    "userId": "man_utd",
+    "userName": "Manchester United",
+    "userThumbnail": "https://images.unsplash.com/photo-1557778358-9fb87328a7db?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bWFuY2hlc3RlciUyMCUyMHVuaXRlZHxlbnwwfHwwfHx8MA%3D%3D",
+    "storyItems": [
+      {
+        "id": "s1a",
+        "imageUrl": "https://images.unsplash.com/photo-1620334988729-ba5c45be4a89?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bWFuY2hlc3RlciUyMCUyMHVuaXRlZHxlbnwwfHwwfHx8MA%3D%3D"
+      },
+      {
+        "id": "s1b",
+        "imageUrl": "https://images.unsplash.com/photo-1727873274558-5d9bd99c0dab?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDR8fG1hbmNoZXN0ZXIlMjAlMjB1bml0ZWR8ZW58MHx8MHx8fDA%3D"
+      }
+    ]
+  },
+  {
+    "userId": "penguin_world",
+    "userName": "Penguin World",
+    "userThumbnail": "https://images.unsplash.com/photo-1598439119086-35655b8c333d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fHBlbmd1aW5zfGVufDB8fDB8fHww",
+    "storyItems": [
+      {
+        "id": "s2a",
+        "imageUrl": "https://plus.unsplash.com/premium_photo-1664303314018-d59cbbb5b13d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cGVuZ3VpbnN8ZW58MHx8MHx8fDA%3D"
+      },
+      {
+        "id": "s2b",
+        "imageUrl": "https://images.unsplash.com/photo-1603548746365-0c7a1583d826?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGVuZ3VpbnN8ZW58MHx8MHx8fDA%3D"
+      },
+      {
+        "id": "s2c",
+        "imageUrl": "https://plus.unsplash.com/premium_photo-1661876658038-8d141832b5de?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHBlbmd1aW5zfGVufDB8fDB8fHww"
+      }
+    ]
+  },
+  {
+    "userId": "batman_meme",
+    "userName": "Batman Meme",
+    "userThumbnail": "https://i.pinimg.com/736x/77/1f/4a/771f4ab9221fb143eff98735916925ac.jpg",
+    "storyItems": [
+      {
+        "id": "s3a",
+        "imageUrl": "https://i.pinimg.com/736x/d3/6f/cf/d36fcfad13434bf8c5d4b3a38bbc9394.jpg"
+      }
+    ]
+  },
+  {
+    "userId": "tech_universe",
+    "userName": "Tech Universe",
+    "userThumbnail": "https://i.pinimg.com/736x/77/1f/4a/771f4ab9221fb143eff98735916925ac.jpg",
+    "storyItems": []
+  }
+]
